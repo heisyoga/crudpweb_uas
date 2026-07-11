@@ -233,17 +233,17 @@ Contoh bagian yang diberi komentar:
 
 ## ✅ Checklist Requirement UAS
 
-| Requirement | Status |
-| --- | --- |
-| Authentication | ✅ Selesai |
-| Modal Popup CRUD | ✅ Selesai |
-| Dashboard | ✅ Selesai |
-| Penjualan | ✅ Selesai |
-| Pembelian | ✅ Selesai |
-| Laporan | ✅ Selesai |
-| Data Master | ✅ Selesai |
-| SQL Master `db_toko` | ✅ Selesai |
-| UI AdminLTE | ✅ Selesai |
+| Requirement | Status | Mandatory
+| --- | --- | --- |
+| Authentication | ✅ Selesai | Yes |
+| Modal Popup CRUD | ✅ Selesai | Yes |
+| Dashboard | ✅ Selesai | Yes |
+| Penjualan | ✅ Selesai | No |
+| Pembelian | ✅ Selesai | No |
+| Laporan | ✅ Selesai | No |
+| Data Master | ✅ Selesai | Yes |
+| SQL file `db_toko` | ✅ Selesai | Yes |
+| UI AdminLTE | ✅ Selesai | Yes |
 
 ---
 
