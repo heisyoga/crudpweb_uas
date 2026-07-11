@@ -1,0 +1,53 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / local config
+.env
+.env.*
+!.env.example
+
+# PHP dependencies (if Composer is used later)
+vendor/
+composer.lock
+
+# Node dependencies / build cache (AdminLTE tooling if used later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Logs
+*.log
+logs/
+
+# Cache / temporary files
+.cache/
+tmp/
+temp/
+*.tmp
+
+# Uploads / generated files
+uploads/
+public/uploads/
+
+# Database dumps except project master SQL
+*.sql.gz
+*.dump
+*.bak
+!db_toko.sql
+
+# XAMPP / local runtime files
+*.pid
+*.sock
+
+# Test / coverage output
+coverage/
+.phpunit.result.cache
