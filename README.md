@@ -210,7 +210,7 @@ Password: admin123
 
 ---
 
-## 📝 Catatan Untuk Dosen
+## 📝 Catatan
 
 Project ini menggunakan gaya komentar **Better Comments** pada file PHP dan SQL agar bagian penting mudah dibaca:
 
